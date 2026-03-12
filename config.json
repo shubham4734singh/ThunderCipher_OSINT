@@ -1,0 +1,5 @@
+{
+    "DB_HOST": "db",
+    "DB_PORT": "5432",
+    "MASTER_SECRET": "TmljZV90cnlfYnV0X3JlYWxfZGV2c19kb250X3N0b3JlX2tleXNfaW5fYmFzZTY0X0tlZXBfRGlnZ2luZyE="
+}
